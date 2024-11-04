@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.AssemblyInfo.cs
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\libwkhtmltox.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\libwkhtmltox.dylib
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\libwkhtmltox.so
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\pdfconverter.exe
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\pdfconverter.deps.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\pdfconverter.runtimeconfig.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\pdfconverter.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\pdfconverter.pdb
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\DinkToPdf.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\DinkToPdfAll.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\OpenXmlPowerTools.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\System.Management.Automation.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\runtimes\win-x64\native\wkhtmltox.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\runtimes\win-x86\native\wkhtmltox.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\runtimes\win7-x64\native\wkhtmltox.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\bin\Debug\net8.0\runtimes\win7-x86\native\wkhtmltox.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.pdfconverter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.build.pdfconverter.props
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pdfconverter.props
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pdfconverter.props
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\scopedcss\bundle\pdfconverter.styles.css
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconve.51EE3009.Up2Date
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\refint\pdfconverter.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.pdb
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.genruntimeconfig.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\ref\pdfconverter.dll
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Yeni klasör\pdfconverter\obj\Debug\net8.0\pdfconverter.RazorAssemblyInfo.cs
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\appsettings.json
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\libwkhtmltox.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\libwkhtmltox.dylib
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\libwkhtmltox.so
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\pdfconverter.exe
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\pdfconverter.deps.json
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\pdfconverter.runtimeconfig.json
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\pdfconverter.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\pdfconverter.pdb
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\DinkToPdf.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\DinkToPdfAll.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\OpenXmlPowerTools.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\System.Management.Automation.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\runtimes\win-x64\native\wkhtmltox.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\runtimes\win-x86\native\wkhtmltox.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\runtimes\win7-x64\native\wkhtmltox.dll
+C:\Users\bugra\Desktop\pdfconverter\bin\Debug\net8.0\runtimes\win7-x86\native\wkhtmltox.dll
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.AssemblyInfo.cs
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.RazorAssemblyInfo.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.RazorAssemblyInfo.cs
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.pdfconverter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.build.pdfconverter.props
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pdfconverter.props
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pdfconverter.props
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\scopedcss\bundle\pdfconverter.styles.css
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconve.51EE3009.Up2Date
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.dll
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\refint\pdfconverter.dll
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.pdb
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\pdfconverter.genruntimeconfig.cache
+C:\Users\bugra\Desktop\pdfconverter\obj\Debug\net8.0\ref\pdfconverter.dll

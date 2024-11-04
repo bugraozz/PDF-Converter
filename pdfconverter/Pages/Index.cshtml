@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Doc To PDF</title>
+    <style>
+        body {
+            background: #0f0c29;
+            /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            color: #ffffff;
+            font-family: 'Roboto', sans-serif;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1 {
+            font-size: 2em;
+            text-align: center;
+            color: #66FCF1;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1em;
+        }
+
+        input[type='file'] {
+            color: #ffffff;
+            background-color: #1F2833;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease, box-shadow 0.2s ease;
+        }
+
+        input[type='file']:hover {
+            background-color: #0B0C10;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+        }
+
+        input[type='submit'] {
+            color: #ffffff;
+            background-color: #3aa8a1;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, box-shadow 0.2s ease;
+            font-size: 1.2em;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+        }
+
+        input[type='submit']:hover {
+            background-color: #196662;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16), 0 6px 20px rgba(0, 0, 0, 0.23);
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>DOC -> PDF</h1>
+        <form method='post' enctype='multipart/form-data' action='/convert'>
+            <input type='file' name='file' />
+            <input type='submit' value='Convert' />
+        </form>
+    </div>
+</body>
+
+</html>
